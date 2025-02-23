@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dhananjay Gupta</h1>
+<h1 align="center">Hi 👋, I'm <a href="https://djgupta-portfolio.netlify.app/" target="_blank">Dhananjay Gupta</a></h1>
 <h3 align="center">A passionate FullStack developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=djgupta7&label=Profile%20views&color=0e75b6&style=flat" alt="djgupta7" /> </p>
 
